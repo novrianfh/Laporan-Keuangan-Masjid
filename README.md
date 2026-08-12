@@ -8,6 +8,8 @@ Pada awalnya saya menggunakan **Affinity Publisher** untuk mendesain laporan keu
 
 Tiap bulan saya usahakan ganti warna tema. Hal ini dibuat agar tetap terasa segar dan baru pada tiap bulannya. Biasanya saya cari inspirasi warna tema pada website seperti [Coolors](https://coolors.co/) atau [Color Hunt](https://colorhunt.co/) pada awal bulan.
 
+Untuk font, kebanyakan saya menggunakan [Google Fonts](https://fonts.google.com/). Tiap bulan mungkin ada font yang ganti. Ada font bawaan MacOS atau Affinity, tapi saya tidak hafal. Hehe.
+
 Contoh beberapa file laporan keuangan pekanan:
 
 ### April 2025
