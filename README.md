@@ -2,7 +2,7 @@
 
 Assalamu'alaikum Warahmatuallahi Wabarokatuh
 
-Saya di sini mau berbagi poster keuangan masjid. 
+Saya di sini mau berbagi poster keuangan masjid. Harapannya, kalau ada yang membutuhkan inspirasi atau template untuk laporan keuangan masjid atau sejenisnya. Bisa menggunakan berkas-berkas di sini.
 
 Pada awalnya saya menggunakan **Affinity Publisher** untuk mendesain laporan keuangan ini. Tetapi, kemudian beralih menggunakan **Affinity Studio** (gratis) [Link](www.affinity.studio). File *afpub* dan *.af* dapat dibuka lewat perangkat lunak ini.
 
