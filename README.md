@@ -1,10 +1,10 @@
-# Poster Laporan Keuangan Pekanan
+# Poster Laporan Keuangan
 
 Assalamu'alaikum Warahmatuallahi Wabarokatuh
 
 Saya di sini mau berbagi poster keuangan masjid. Harapannya, kalau ada yang membutuhkan inspirasi atau template untuk laporan keuangan masjid atau sejenisnya. Bisa menggunakan berkas-berkas di sini.
 
-Pada awalnya saya menggunakan **Affinity Publisher** untuk mendesain laporan keuangan ini. Tetapi, kemudian beralih menggunakan **Affinity Studio** (gratis) [Link](www.affinity.studio). File *afpub* dan *.af* dapat dibuka lewat perangkat lunak ini.
+Pada awalnya saya menggunakan **Affinity Publisher** untuk mendesain laporan keuangan ini. Tetapi, kemudian beralih menggunakan **Affinity Studio** (gratis) [Link](www.affinity.studio). File *.afpub* dan *.af* dapat dibuka lewat perangkat lunak ini.
 
 Tiap bulan saya usahakan ganti warna tema. Hal ini dibuat agar tetap terasa segar dan baru pada tiap bulannya. Biasanya saya cari inspirasi warna tema pada website seperti [Coolors](https://coolors.co/) atau [Color Hunt](https://colorhunt.co/) pada awal bulan.
 
